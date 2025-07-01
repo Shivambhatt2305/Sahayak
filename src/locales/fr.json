@@ -1,0 +1,24 @@
+
+{
+  "sahayak": "Sahayak",
+  "for_teachers": "Pour les Enseignants",
+  "for_students": "Pour les Étudiants",
+  "about": "À Propos",
+  "contact": "Contact",
+  "login": "Connexion",
+  "teacher_login": "Connexion Enseignant",
+  "student_login": "Connexion Étudiant",
+  "dashboard": "Tableau de Bord",
+  "dashboard_welcome": "Content de vous revoir ! Voici un aperçu rapide de votre espace de travail.",
+  "generate_content_for_teaching": "Générer du Contenu Pédagogique",
+  "paper_generation": "Génération de Sujets",
+  "design_visual_aids": "Concevoir des Aides Visuelles",
+  "student_class_progress_support": "Soutien au Progrès des Élèves/Classes",
+  "student_feedback": "Commentaires des Élèves",
+  "timetables": "Emplois du Temps",
+  "timetable_generation": "Génération d'Emplois du Temps",
+  "hyperlocal_content": "Contenu Hyperlocal",
+  "text_to_image": "Texte en Image",
+  "instructional_queries": "Requêtes Pédagogiques",
+  "choose_language": "Choisir la Langue"
+}
